@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" 
+     viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <style>
+      .primary { fill: #003366; }
+      .secondary { fill: #0066CC; }
+      .text { fill: white; font-family: Arial, sans-serif; font-weight: bold; }
+    </style>
+  </defs>
+  
+  <rect width="512" height="512" class="primary"/>
+  <circle cx="256" cy="180" r="60" class="secondary"/>
+  
+  <text x="256" y="320" text-anchor="middle" class="text" font-size="48">LEMIEUX</text>
+  <text x="256" y="380" text-anchor="middle" class="text" font-size="48">SAMSON</text>
+</svg>
